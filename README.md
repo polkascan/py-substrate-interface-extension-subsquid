@@ -1,8 +1,8 @@
 # Python Substrate Interface: Subsquid Extension
 
-[![Latest Version](https://img.shields.io/pypi/v/substrate-interface-polkascan.svg)](https://pypi.org/project/substrate-interface-polkascan/)
-[![Supported Python versions](https://img.shields.io/pypi/pyversions/substrate-interface-polkascan.svg)](https://pypi.org/project/substrate-interface/)
-[![License](https://img.shields.io/pypi/l/substrate-interface-polkascan.svg)](https://github.com/polkascan/py-substrate-interface-extension-polkascan/blob/master/LICENSE)
+[![Latest Version](https://img.shields.io/pypi/v/substrate-interface-subsquid.svg)](https://pypi.org/project/substrate-interface-subsquid/)
+[![Supported Python versions](https://img.shields.io/pypi/pyversions/substrate-interface-subsquid.svg)](https://pypi.org/project/substrate-subsquid/)
+[![License](https://img.shields.io/pypi/l/substrate-interface-subsquid.svg)](https://github.com/polkascan/py-substrate-interface-extension-subsquid/blob/master/LICENSE)
 
 
 ## Description
